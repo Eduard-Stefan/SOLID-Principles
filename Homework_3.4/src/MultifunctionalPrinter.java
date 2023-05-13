@@ -1,0 +1,1 @@
+public interface MultifunctionalPrinter extends Fax, Scanner, PrinterInterface{}
